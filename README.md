@@ -28,4 +28,17 @@ Leitfrage:
 ---
 
 # Projektstruktur
-AI-UseCase-Evaluator/ │ ├── src/ │ ├── main/ │ │ ├── java/ │ │ │ ├── Main.java │ │ │ ├── model/ │ │ │ │ └── UseCase.java │ │ │ ├── service/ │ │ │ │ └── MongoService.java │ │ │ └── evaluation/ │ │ │ └── UseCaseEvaluator.java │ ├── screenshots/ │ ├── README.md │ └── pom.xml
+AI-UseCase-Evaluator/ 
+│ ├── src/ 
+│ ├── main/ 
+│ │ ├── java/ 
+│ │ │ ├── Main.java 
+│ │ │ ├── model/ 
+│ │ │ │ └── UseCase.java 
+│ │ │ ├── service/ 
+│ │ │ │ └── MongoService.java 
+│ │ │ └── evaluation/ │
+│ │ └── UseCaseEvaluator.java 
+│ ├── screenshots/ 
+│ ├── README.md 
+│ └── pom.xml
